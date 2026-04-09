@@ -1,5 +1,6 @@
 ilo.brenz.pl
 ant.trenz.pl
+server10.trumops.com
 server10.retoti.com
 morphed.ru
 r3.hashpoolpx.net
