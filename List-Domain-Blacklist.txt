@@ -1,3 +1,13 @@
+ahoravideo-schnellvpn.xyz
+ahoravideo-cdn.xyz
+ahoravideo-chat.xyz
+ahoravideo-blog.xyz
+ahoravideo-endpoint.xyz
+privatproxy-schnellvpn.xyz
+privatproxy-cdn.xyz
+privatproxy-chat.xyz
+privatproxy-blog.xyz
+privatproxy-endpoint.xyz
 www.highperformanceformat.com
 server16.yeug3c6mnwocixwlotka4nwo3fjtfic65o4psmpxvrdul5q7dgjmsvad.onion
 server13.yeug3c6mnwocixwlotka4nwo3fjtfic65o4psmpxvrdul5q7dgjmsvad.onion
