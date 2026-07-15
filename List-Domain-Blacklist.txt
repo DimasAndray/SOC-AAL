@@ -330,6 +330,7 @@ fairu-chat.com
 fairu-blog.com
 fairu-endpoint.com
 https://kryosys.top/
+https://kryosys.top/1284217
 wmail-cdn.com
 wmail-chat.com
 bideo-schnellvpn.com
