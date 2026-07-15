@@ -329,6 +329,7 @@ fairu-schnellvpn.com
 fairu-chat.com
 fairu-blog.com
 fairu-endpoint.com
+https://kryosys.top/
 wmail-cdn.com
 wmail-chat.com
 bideo-schnellvpn.com
