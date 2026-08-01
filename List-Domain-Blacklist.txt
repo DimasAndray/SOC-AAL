@@ -1,5 +1,6 @@
 celebrated-kataifi-096eea.netlify.app
 thunderous-stardust-f61d4e.netlify.app
+cdn-static.desu.xxx
 gsocket.io
 igo.desu.xxx
 nhentai.xxx
