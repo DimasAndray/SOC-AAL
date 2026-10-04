@@ -1,7 +1,5 @@
-umc.xxx
 flamboyant-jackson-0a32b7.netlify.app
 ecstatic-varahamihira-d12b19.netlify.app
-umwelt-saarland.xxx
 serene-lumiere-84af3b.netlify.app
 transcendent-pasca-5741c0.netlify.app
 ecstatic-roentgen-2dc9f1.netlify.app
