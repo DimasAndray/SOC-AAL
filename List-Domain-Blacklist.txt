@@ -29,6 +29,7 @@ fpo.xxx
 umass.xxx
 ecstatic-golick-5c496f.netlify.app
 ecussonrouge.xxx
+canmaya.xxx
 keremcem.xxx
 ecstatic-villani-376b57.netlify.app
 hot51.xxx
