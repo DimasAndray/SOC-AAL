@@ -6,6 +6,7 @@ mozart.xxx
 kenstone.xxx
 bellesaison.xxx
 spacetv.xxx
+ownersexclusive.xxx
 winfields.xxx
 api.tophd.xxx
 www.gfe.xxx
