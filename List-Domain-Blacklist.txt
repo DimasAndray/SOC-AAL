@@ -9,6 +9,7 @@ spaceoar.xxx
 owlcity.xxx
 guardianinvestmentmanagementservices.xxx
 umaxx.xxx
+la-maison-point-vert.xxx
 ecorex.xxx
 ws14.crypto-loot.com
 bella.xxx
